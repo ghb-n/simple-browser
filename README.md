@@ -1,2 +1,3 @@
 # simple-browser
-It's a simple browser made by me to practice what I've been learning since I start to write code in C++
+
+It's a project made by me and until now I don't have any name idea to it, but I'm doing a great I guess...
